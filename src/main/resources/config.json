@@ -1,0 +1,12 @@
+{
+  "paths": [
+    {
+      "id": "PATH_1",
+      "path": "/my/first/path"
+    },
+    {
+      "id": "PATH_2",
+      "path": "/my/second/path"
+    }
+  ]
+}
